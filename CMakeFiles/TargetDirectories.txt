@@ -1,0 +1,6 @@
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/omp_gen.dir
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/acc_gen.dir
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/CSElimination.dir
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/edit_cache.dir
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/rebuild_cache.dir
+/Users/mahbodafarin1admin/Desktop/CS201-Template/Pass/CSElimination/CMakeFiles/intrinsics_gen.dir
